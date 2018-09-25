@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>The Townhouse Podcast</title>
+  <googleplay:author>TODO</googleplay:author>
+  <googleplay:email>townhousepodcast@gmail.com</googleplay:email>
+  <image href="TODO" />
+  <link>https://www.youtube.com/channel/UC3BdHk8VhBVvOzlespZqcKA</link>
+  <description>A fun hobby of several close friends hoping to share some laughs with each other and anyone else who might be interested.</description>
+  <language>en-us</language>
+  <item>
+    <title>Episode 1: "Go easy on me, it's my first time"</title>
+    <link>TODO</link>
+    <description>TODO</description>
+  </item>
+</channel>
+
+</rss>
