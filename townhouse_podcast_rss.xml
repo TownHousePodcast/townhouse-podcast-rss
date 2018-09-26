@@ -4,7 +4,11 @@
   <title>The Townhouse Podcast</title>
   <googleplay:author>The Townhouse Podcast</googleplay:author>
   <googleplay:email>townhousepodcast@gmail.com</googleplay:email>
-  <image href="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/images/logo.png" />
+  <image>
+    <url>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/images/logo.png</url>
+    <title>Townhouse Podcast Logo</title>
+    <link>https://www.youtube.com/channel/UC3BdHk8VhBVvOzlespZqcKA</link>
+  </image>
   <link>https://www.youtube.com/channel/UC3BdHk8VhBVvOzlespZqcKA</link>
   <description>A fun hobby of several close friends hoping to share some laughs with each other and anyone else who might be interested.</description>
   <language>en-us</language>
