@@ -3,7 +3,7 @@
 
 <channel>
   <title>The Townhouse Podcast</title>
-  <googleplay:author>TODO</googleplay:author>
+  <googleplay:author>The Townhouse Podcast</googleplay:author>
   <googleplay:email>townhousepodcast@gmail.com</googleplay:email>
   <image href="TODO" />
   <link>https://www.youtube.com/channel/UC3BdHk8VhBVvOzlespZqcKA</link>
@@ -11,7 +11,7 @@
   <language>en-us</language>
   <item>
     <title>Episode 1: "Go easy on me, it's my first time"</title>
-    <enclosure url="TODO" length="TODO" type="audio/x-mp3"/>
+    <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep1.mp3" length="TODO" type="audio/x-mp3"/>
     <description>TODO</description>
   </item>
 </channel>
