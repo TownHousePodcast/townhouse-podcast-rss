@@ -12,13 +12,13 @@
   <link>https://www.youtube.com/channel/UC3BdHk8VhBVvOzlespZqcKA</link>
   <description>A fun hobby of several close friends hoping to share some laughs with each other and anyone else who might be interested.</description>
   <language>en-us</language>
-  
+
   <item>
-    <title>Episode 1: "Go easy on me, it's my first time"</title>
-    <pubDate>Mon, 24 Sep 2018</pubDate>
+    <title>Episode 3: Revenge of the Bad Titles</title>
+    <pubDate>Mon, 08 Oct 2018</pubDate>
     <googleplay:explicit>Yes</googleplay:explicit>
-    <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/updated/ep1.mp3" length="81085694" type="audio/mpeg"/>
-    <description>Xavier, Gavin, and Anthony, tell their origin story and discuss news, Assassins Creed, beer, and selfishness in their comically mediocre pilot episode to the Townhouse Podcast.</description>
+    <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep3.mp3" length="58134188" type="audio/mpeg"/>
+    <description>Xavier, Gavin, and Anthony meet once again for the 3rd episode of the Townhouse Podcast. They are joined by a very special guest DAN as they discuss movies, video games, beer, and their hopes and dreams for the Star Wars Franchise.</description>
   </item>
 
   <item>
@@ -27,6 +27,14 @@
     <googleplay:explicit>Yes</googleplay:explicit>
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep2.mp3" length="61924059" type="audio/mpeg"/>
     <description>Xavier, Gavin, Anthony reminice about childhood and discuss the alternatives to college, but not before exploring some questionable news stories about Canadians, cocaine, and Uranus.</description>
+  </item>
+  
+  <item>
+    <title>Episode 1: "Go easy on me, it's my first time"</title>
+    <pubDate>Mon, 24 Sep 2018</pubDate>
+    <googleplay:explicit>Yes</googleplay:explicit>
+    <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/updated/ep1.mp3" length="81085694" type="audio/mpeg"/>
+    <description>Xavier, Gavin, and Anthony, tell their origin story and discuss news, Assassins Creed, beer, and selfishness in their comically mediocre pilot episode to the Townhouse Podcast.</description>
   </item>
   
 </channel>
