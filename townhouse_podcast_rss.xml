@@ -14,6 +14,14 @@
   <language>en-us</language>
 
   <item>
+    <title>Episode 4: "Florida man..."</title>
+    <pubDate>Mon, 15 Oct 2018</pubDate>
+    <googleplay:explicit>Yes</googleplay:explicit>
+    <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep4.mp3" length="38664000" type="audio/mpeg"/>
+    <description>Xavier, Gavin, Anthony, and a special guest discuss bizarre news stories, Black Mirror, Beer, and everyone's favorite article headlines "Florida Man..." in episode 4 of the Townhouse.</description>
+  </item>
+
+  <item>
     <title>Episode 3: Revenge of the Bad Titles</title>
     <pubDate>Mon, 08 Oct 2018</pubDate>
     <googleplay:explicit>Yes</googleplay:explicit>
