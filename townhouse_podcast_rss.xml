@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
   <title>The Townhouse Podcast</title>
-  <googleplay:author>The Townhouse Podcast</googleplay:author>
-  <googleplay:email>townhousepodcast@gmail.com</googleplay:email>
+  <itunes:author>The Townhouse</itunes:author>
+  <itunes:email>townhousepodcast@gmail.com</itunes:email>
   <image>
     <url>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/images/logo.png</url>
     <title>Townhouse Podcast Logo</title>
     <link>https://www.youtube.com/channel/UC3BdHk8VhBVvOzlespZqcKA</link>
   </image>
+  <itunes:explicit>Yes</itunes:explicit>
+  <itunes:category text="Comedy" />
   <link>https://www.youtube.com/channel/UC3BdHk8VhBVvOzlespZqcKA</link>
-  <description>A fun hobby of several close friends hoping to share some laughs with each other and anyone else who might be interested.</description>
+  <itunes:summary>A fun hobby of several close friends hoping to share some laughs with each other and anyone else who might be interested.</itunes:summary>
   <language>en-us</language>
 
   <item>
     <title>Episode 4: "Florida man..."</title>
     <pubDate>Mon, 15 Oct 2018</pubDate>
-    <googleplay:explicit>Yes</googleplay:explicit>
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep4.mp3" length="38664000" type="audio/mpeg"/>
-    <description>Xavier, Gavin, Anthony, and a special guest discuss bizarre news stories, Black Mirror, Beer, and everyone's favorite article headlines "Florida Man..." in episode 4 of the Townhouse.</description>
+    <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep4.mp3</guid>
+    <itunes:summary>Xavier, Gavin, Anthony, and a special guest discuss bizarre news stories, Black Mirror, Beer, and everyone's favorite article headlines "Florida Man..." in episode 4 of the Townhouse.</itunes:summary>
   </item>
 
   <item>
     <title>Episode 3: Revenge of the Bad Titles</title>
     <pubDate>Mon, 08 Oct 2018</pubDate>
-    <googleplay:explicit>Yes</googleplay:explicit>
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep3.mp3" length="58134188" type="audio/mpeg"/>
-    <description>Xavier, Gavin, and Anthony meet once again for the 3rd episode of the Townhouse Podcast. They are joined by a very special guest DAN as they discuss movies, video games, beer, and their hopes and dreams for the Star Wars Franchise.</description>
+    <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep3.mp3</guid>
+    <itunes:summary>Xavier, Gavin, and Anthony meet once again for the 3rd episode of the Townhouse Podcast. They are joined by a very special guest DAN as they discuss movies, video games, beer, and their hopes and dreams for the Star Wars Franchise.</itunes:summary>
   </item>
 
   <item>
     <title>Episode 2: Visiting Uranus and The Importance of College</title>
     <pubDate>Mon, 01 Oct 2018</pubDate>
-    <googleplay:explicit>Yes</googleplay:explicit>
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep2.mp3" length="61924059" type="audio/mpeg"/>
-    <description>Xavier, Gavin, and Anthony reminisce about childhood and discuss the alternatives to college, but not before exploring some questionable news stories about Canadians, cocaine, and Uranus.</description>
+    <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep2.mp3</guid>
+    <itunes:summary>Xavier, Gavin, and Anthony reminisce about childhood and discuss the alternatives to college, but not before exploring some questionable news stories about Canadians, cocaine, and Uranus.</itunes:summary>
   </item>
   
   <item>
     <title>Episode 1: "Go easy on me, it's my first time"</title>
     <pubDate>Mon, 24 Sep 2018</pubDate>
-    <googleplay:explicit>Yes</googleplay:explicit>
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/updated/ep1.mp3" length="81085694" type="audio/mpeg"/>
-    <description>Xavier, Gavin, and Anthony, tell their origin story and discuss news, Assassins Creed, beer, and selfishness in their comically mediocre pilot episode to the Townhouse Podcast.</description>
+    <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/updated/ep1.mp3</guid>
+    <itunes:summary>Xavier, Gavin, and Anthony, tell their origin story and discuss news, Assassins Creed, beer, and selfishness in their comically mediocre pilot episode to the Townhouse Podcast.</itunes:summary>
   </item>
   
 </channel>
