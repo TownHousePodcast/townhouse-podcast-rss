@@ -21,6 +21,7 @@
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep4.mp3" length="38664000" type="audio/mpeg"/>
     <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep4.mp3</guid>
     <itunes:summary>Xavier, Gavin, Anthony, and a special guest discuss bizarre news stories, Black Mirror, Beer, and everyone's favorite article headlines "Florida Man..." in episode 4 of the Townhouse.</itunes:summary>
+    <itunes:duration>0:26:51</itunes:duration>
   </item>
 
   <item>
@@ -29,6 +30,7 @@
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep3.mp3" length="58134188" type="audio/mpeg"/>
     <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep3.mp3</guid>
     <itunes:summary>Xavier, Gavin, and Anthony meet once again for the 3rd episode of the Townhouse Podcast. They are joined by a very special guest DAN as they discuss movies, video games, beer, and their hopes and dreams for the Star Wars Franchise.</itunes:summary>
+    <itunes:duration>0:30:06</itunes:duration>
   </item>
 
   <item>
@@ -37,6 +39,7 @@
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep2.mp3" length="61924059" type="audio/mpeg"/>
     <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep2.mp3</guid>
     <itunes:summary>Xavier, Gavin, and Anthony reminisce about childhood and discuss the alternatives to college, but not before exploring some questionable news stories about Canadians, cocaine, and Uranus.</itunes:summary>
+    <itunes:duration>0:32:04</itunes:duration>
   </item>
   
   <item>
@@ -45,6 +48,7 @@
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/updated/ep1.mp3" length="81085694" type="audio/mpeg"/>
     <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/updated/ep1.mp3</guid>
     <itunes:summary>Xavier, Gavin, and Anthony, tell their origin story and discuss news, Assassins Creed, beer, and selfishness in their comically mediocre pilot episode to the Townhouse Podcast.</itunes:summary>
+    <itunes:duration>0:41:56</itunes:duration>
   </item>
   
 </channel>
