@@ -16,6 +16,15 @@
   <language>en-us</language>
 
   <item>
+    <title>Episode 5: The Late Halloween Special</title>
+    <pubDate>Mon, 22 Oct 2018</pubDate>
+    <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep5.mp3" length="38742426" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep5.mp3</guid>
+    <itunes:summary>On the milestone 5th episode of the Townhouse Podcast, Xavier, Gavin, and Anthony discuss Halloween, news items for the week, as well as their likes and dislikes regarding boardgames.</itunes:summary>
+    <itunes:duration>0:34:06</itunes:duration>
+  </item>
+  
+  <item>
     <title>Episode 4: "Florida man..."</title>
     <pubDate>Mon, 15 Oct 2018</pubDate>
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep4.mp3" length="38664000" type="audio/mpeg"/>
