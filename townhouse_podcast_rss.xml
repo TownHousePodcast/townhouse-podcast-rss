@@ -16,6 +16,15 @@
   <language>en-us</language>
 
   <item>
+    <title>The Townhouse Podcast - Episode 6: Thanksgiving Priorities</title>
+    <pubDate>Mon, 19 Nov 2018</pubDate>
+    <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep6.mp3" length="70445485" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep6.mp3</guid>
+    <itunes:summary>Xavier, Gavin, and Anthony, return for episode 6 of the townhouse to discuss breaking news, the new Detective Pikachu movie, and how to balance the different priorities of a busy life.</itunes:summary>
+    <itunes:duration>0:48:55</itunes:duration>
+  </item>
+
+  <item>
     <title>Episode 5: The Late Halloween Special</title>
     <pubDate>Mon, 22 Oct 2018</pubDate>
     <enclosure url="https://raw.githubusercontent.com/TownHousePodcast/townhouse-podcast-rss/master/episodes/ep5.mp3" length="38742426" type="audio/mpeg"/>
